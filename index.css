@@ -1,0 +1,63 @@
+ .grid-container {
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     column-width: 50%;
+     padding: 91px 0;
+ }
+
+ .pic {
+     text-align: center;
+ }
+
+ .textbutton {
+     text-align: center;
+ }
+
+ .contenttextbutton {
+     text-align: center;
+     margin-top: 30%;
+     line-height: 50%;
+ }
+
+ h1 {
+     font-size: 60px;
+     color: #111111;
+ }
+
+ h2 {
+     font-size: 24px;
+     color: #C0C6CC;
+ }
+
+ button {
+     background-color: #8B8B8B;
+     color: white;
+     font-family: Bebas Kai !important;
+     font-size: 27px;
+     padding: 1.5% 13%;
+     border-radius: 30px;
+     border: none;
+     margin-top: 23px;
+     outline: none;
+     transition-duration: 0.4s;
+ }
+
+ button:hover {
+     background-color: #000000;
+     color: white;
+     outline: none;
+ }
+
+ .info {
+     padding: 1px 0;
+ }
+
+ .social {
+     text-align: center;
+ }
+
+ @media only screen and (max-width: 768px) {
+     .grid-container {
+         grid-template-columns: 1fr;
+     }
+ }
