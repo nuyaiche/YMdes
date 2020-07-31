@@ -11,8 +11,9 @@ body {
 .fa-behance {
     color: #747474;
     stroke: none;
+    padding: 20px 20px;
     font-size: 30px;
-    padding: 30px 20px;
+    margin-top: 3%;
     transition-duration: 0.4s;
 }
 
@@ -25,6 +26,7 @@ body {
     stroke: none;
     padding: 20px 20px;
     font-size: 30px;
+    margin-top: 3%;
     transition-duration: 0.4s;
 }
 
@@ -35,9 +37,9 @@ body {
 .fa-instagram {
     color: #747474;
     stroke: none;
-    padding: 30px 20px;
+    padding: 20px 20px;
     font-size: 30px;
-    margin: 3% 0;
+    margin-top: 3%;
     transition-duration: 0.4s;
 }
 
@@ -50,6 +52,7 @@ body {
     stroke: none;
     padding: 20px 20px;
     font-size: 30px;
+    margin-top: 3%;
     transition-duration: 0.4s;
 }
 

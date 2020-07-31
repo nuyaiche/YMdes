@@ -47,39 +47,39 @@ p {
 /* preview images gallery */
 
 .content .flower-shop {
-    background: url(flowers.png) no-repeat;
+    background: url(../../media/flowers.png) no-repeat;
 }
 
 .content .severdom {
-    background: url(sevdom.png) no-repeat;
+    background: url(../../media/sevdom.png) no-repeat;
 }
 
 .content .instpost {
-    background: url(igp.png) no-repeat;
+    background: url(../../media/igp.png) no-repeat;
 }
 
 .content .mkbrest {
-    background: url(MK.png) no-repeat;
+    background: url(../../media/MK.png) no-repeat;
 }
 
 .content .clean {
-    background: url(sm.png) no-repeat;
+    background: url(../../media/sm.png) no-repeat;
 }
 
 .content .mama {
-    background: url(mama.png) no-repeat;
+    background: url(../../media/mama.png) no-repeat;
 }
 
 .content .stonehouse {
-    background: url(первый.png) no-repeat;
+    background: url(../../media/первый.png) no-repeat;
 }
 
 .content .sc {
-    background: url(sc.png) no-repeat;
+    background: url(../../media/sc.png) no-repeat;
 }
 
 .content .calz {
-    background: url(calz.png) no-repeat;
+    background: url(../../media/calz.png) no-repeat;
 }
 
 /* end of previews */
