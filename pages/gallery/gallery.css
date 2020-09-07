@@ -45,6 +45,9 @@ p {
 }
 
 /* preview images gallery */
+.content .vvozim {
+    background: url(../../media/mockupvvozim1.png) no-repeat;
+}
 
 .content .flower-shop {
     background: url(../../media/flowers.png) no-repeat;
